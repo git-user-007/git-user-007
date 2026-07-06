@@ -45,39 +45,21 @@ Here are some ideas to get you started:
 <img src="https://skillicons.dev/icons?i=cpp,python,html,css,javascript,react,nodejs,git,github,vscode,mysql&perline=6"/>
 </p>
 
----
+## 📈 Contribution Graph
 
-## 🌱 Currently Learning
+<p align="center">
+ <a href="https://github.com/Harshita-Bohet-git/Harshita-Bohet-git">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Harshita-Bohet-git&theme=tokyo-night"/>
+</p>
 
-- 🌐 Full Stack Web Development
-- 📚 Data Structures & Algorithms
-- 🤖 Artificial Intelligence
-- 🧠 Machine Learning
-- ⚡ Competitive Programming
-
----
-
-## 🎯 Goals
-
-✔ Become a skilled Full Stack Developer
-
-✔ Master DSA for coding interviews
-
-✔ Build impactful AI/ML projects
-
-✔ Contribute to Open Source
-
-✔ Learn something new every day
-
----
 
 ## 📊 GitHub Stats
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Harshita-Bohet-git&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Harshita-Bohet-git & show_icons=true&theme=tokyonight"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshita-Bohet-gitE&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshita-Bohet-git & layout=compact&theme=tokyonight"/>
 
 </p>
 
@@ -89,16 +71,6 @@ Here are some ideas to get you started:
 <img src="https://github-readme-streak-stats.herokuapp.com/?user= Harshita-Bohet-git & theme=tokyonight"/>
 </p>
 
-
-
-## 📈 Contribution Graph
-
-<p align="center">
- <a href="https://github.com/Harshita-Bohet-git/Harshita-Bohet-git">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Harshita-Bohet-git&theme=tokyo-night"/>
-</p>
-
----
 
 ## 🤝 Connect With Me
 

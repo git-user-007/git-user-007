@@ -86,7 +86,7 @@ Here are some ideas to get you started:
 ## 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Harshita-Bohet-git&theme=tokyonight"/>
 </p>
 
 ---
@@ -95,7 +95,7 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a href="https://github.com/Harshita-Bohet-git/Harshita-Bohet-git">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Harshita-Bohet-git&theme=tokyo-night"/>
 </p>
 
 ---

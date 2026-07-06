@@ -75,9 +75,9 @@ Here are some ideas to get you started:
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Harshita-Bohet-git&show_icons=true&theme=tokyonight"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshita-Bohet-gitE&layout=compact&theme=tokyonight"/>
 
 </p>
 
@@ -86,15 +86,15 @@ Here are some ideas to get you started:
 ## 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Harshita-Bohet-git&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user= Harshita-Bohet-git & theme=tokyonight"/>
 </p>
 
----
+
 
 ## 📈 Contribution Graph
 
 <p align="center">
-  <a href="https://github.com/Harshita-Bohet-git/Harshita-Bohet-git">
+ <a href="https://github.com/Harshita-Bohet-git/Harshita-Bohet-git">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Harshita-Bohet-git&theme=tokyo-night"/>
 </p>
 

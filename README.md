@@ -29,23 +29,17 @@ Here are some ideas to get you started:
 
 🎓 B.Tech SE Student at Delhi Technological University (DTU)
 
-<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/aa8af77d-143a-4db6-8a72-e9ce03f6adfe" />
- Passionate about building modern web applications
+-> Passionate about building modern web applications
 
-<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/2d0aeb37-371a-4461-a162-1a7c559568a3" />
- Solving Data Structures & Algorithms problems daily
+-> Solving Data Structures & Algorithms problems daily
 
-<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/1813d389-e370-4f61-930f-ba5771f0e62a" />
- Exploring Artificial Intelligence & Machine Learning
+-> Exploring Artificial Intelligence & Machine Learning
 
-<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/eb63b0fc-f328-4f90-a84f-fc2840915f42" />
- Currently improving my problem-solving and development skills
+->Currently improving my problem-solving and development skills
 
----
 
-## 
-<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/cfd0037a-3744-4186-a8f0-a40684803ec1" />
-Tech Stack
+
+## Tech Stack
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=cpp,python,html,css,javascript,react,nodejs,git,github,vscode,mysql&perline=6"/>

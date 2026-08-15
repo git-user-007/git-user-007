@@ -49,6 +49,6 @@ Here are some ideas to get you started:
 
 <p align="center">
  <a href="https://github.com/git-user-007/Harshita-Bohet-git">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Harshita-Bohet-git&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=git-user-007&theme=tokyo-night"/>
 </p>
 

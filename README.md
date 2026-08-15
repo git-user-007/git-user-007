@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center"> Hey There ! This is Harshita</h1>
+<h1 align="center"> Hey There ! This is hArsh!ta</h1>
 
 <h3 align="center">
  Web Developer •  DSA Enthusiast •  AI/ML Learner

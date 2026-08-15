@@ -52,38 +52,3 @@ Here are some ideas to get you started:
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Harshita-Bohet-git&theme=tokyo-night"/>
 </p>
 
-
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=git-user-007 & show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=git-user-007 & layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=git-user-007 & theme=tokyonight"/>
-</p>
-
-
-## 🤝 Connect With Me
-
-<p align="center">
-<a href="https://www.linkedin.com/in/harshita-bohet-linkdone/">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:harshitabohet@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-</p>
-
----
-
-<h3 align="center">✨ Code • Learn • Build • Repeat ✨</h3>

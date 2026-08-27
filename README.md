@@ -1,8 +1,3 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
-  <img alt="git-user-007's GitHub profile" src="dark_mode.svg" />
-</picture>
 
 <!--
 **Harshita-Bohet-git/Harshita-Bohet-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -52,7 +47,7 @@ Here are some ideas to get you started:
 ## 📈 Contribution Graph
 
 <p align="center">
- <a href="https://github.com/git-user-007/Harshita-Bohet-git">
+ <a href="https://github.com/git-user-007/git-user-007">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=git-user-007&theme=tokyo-night"/>
 </p>
 

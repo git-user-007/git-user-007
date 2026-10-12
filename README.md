@@ -32,8 +32,8 @@ Right now , learning how to ship software properly.
 <!-- ═══════════════ STACK ═══════════════ -->
 
 <p>
-  <img src="https://skillicons.dev/icons?i=cpp,c,py,js,ts,html,css,n8n &theme=dark" alt="Languages: C++, C, Python, JavaScript, TypeScript, HTML, CSS ,N8N" />
-  <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,mysql,git,github,vscode&theme=dark" alt="Tools: React, Node.js, MongoDB, MySQL, Git, GitHub, VS Code" />
+  <img src="https://skillicons.dev/icons?i=cpp,c,py,js,ts,html,css,&theme=dark" alt="Languages: C++, C, Python, JavaScript, TypeScript, HTML, CSS ," />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,mysql,git,github,vscode,n8n&theme=dark" alt="Tools: React, Node.js, MongoDB, MySQL, Git, GitHub, VS Code,n8n" />
 </p>
 
 </div>

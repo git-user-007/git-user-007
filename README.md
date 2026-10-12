@@ -2,10 +2,8 @@
 
 <!-- ═══════════════ HERO ═══════════════ -->
 <a href="https://github.com/git-user-007">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=3200&pause=1200&color=58A6FF&center=true&vCenter=true&width=720&height=60&lines=Hi!+I%27m+Harshita+Bohet;Software+Engineering+%40+DTU;DSA+%C2%B7+Web+%C2%B7+AI%2FML" alt="Animated intro: Harshita Bohet, Software Engineering student at DTU" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=3200&pause=1200&color=58A6FF&center=true&vCenter=true&width=720&height=60&lines=Heyyaaaa!" alt="Animated intro: Harshita Bohet, Heyaaa" />
 </a>
-
-<p><b>Turning curiosity, DSA and code into things that actually run.</b></p>
 
 <p>
   Software Engineering student at <b>Delhi Technological University (DTU)</b><br/>
@@ -27,25 +25,16 @@
 <br/>
 
 <!-- ═══════════════ ABOUT ═══════════════ -->
-<h2 align="center">~/about</h2>
 
-<div align="center">
-
-I'm a B.Tech Software Engineering student at DTU who enjoys **Data Structures & Algorithms**, **web development** and **AI/ML**.
+I'm a B.Tech Software Engineering student at DTU 
 I like turning what I learn into small, practical applications, and I'm sharpening my fundamentals for on-campus placements.
-
-**Right now:** practising DSA · building projects · learning how to ship software properly.
+Right now , learning how to ship software properly.
 
 </div>
 
 <br/>
 
 <!-- ═══════════════ STACK ═══════════════ -->
-<h2 align="center">~/languages-and-tools</h2>
-
-<div align="center">
-
-<sub>Languages and tools I've used or am actively learning.</sub>
 
 <p>
   <img src="https://skillicons.dev/icons?i=cpp,c,py,js,ts,html,css&theme=dark" alt="Languages: C++, C, Python, JavaScript, TypeScript, HTML, CSS" />
@@ -58,7 +47,6 @@ I like turning what I learn into small, practical applications, and I'm sharpeni
 <br/>
 
 <!-- ═══════════════ PROJECTS ═══════════════ -->
-<h2 align="center">~/featured-projects</h2>
 
 <table align="center">
   <tr>
@@ -100,7 +88,6 @@ I like turning what I learn into small, practical applications, and I'm sharpeni
 <br/>
 
 <!-- ═══════════════ GITHUB STATS ═══════════════ -->
-<h2 align="center">~/github-stats</h2>
 
 <div align="center">
 

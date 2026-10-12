@@ -90,10 +90,6 @@ Right now , learning how to ship software properly.
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=git-user-007&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Most used languages card for git-user-007" />
 </p>
 
-<p>
-  <img src="https://streak-stats.demolab.com/?user=git-user-007&background=FFFFFF&border=58A6FF&stroke=D0D7DE&ring=58A6FF&fire=00D9FF&currStreakNum=0D1117&sideNums=0D1117&currStreakLabel=0969DA&sideLabels=57606A&dates=57606A" alt="GitHub contribution streak card for git-user-007" />
-</p>
-
 
 </div>
 

@@ -22,8 +22,7 @@
 <!-- ═══════════════ ABOUT ═══════════════ -->
 
 I'm a B.Tech Software Engineering student at DTU 
-I like turning what I learn into small, practical applications, and I'm sharpening my fundamentals for on-campus placements.
-Right now , learning how to ship software properly.
+I like turning what I learn into small, practical applications, and I'm sharpening my fundamentals and learning how to ship software properly.
 
 </div>
 
@@ -82,13 +81,6 @@ Right now , learning how to ship software properly.
 <br/>
 
 <!-- ═══════════════ GITHUB STATS ═══════════════ -->
-
-<div align="center">
-
-<p>
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=git-user-007&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=00D9FF&text_color=C9D1D9&text_bold=false" alt="GitHub stats card for git-user-007" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=git-user-007&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Most used languages card for git-user-007" />
-</p>
 
 
 </div>

@@ -113,9 +113,6 @@ I like turning what I learn into small, practical applications, and I'm sharpeni
   <img src="https://streak-stats.demolab.com/?user=git-user-007&background=FFFFFF&border=58A6FF&stroke=D0D7DE&ring=58A6FF&fire=00D9FF&currStreakNum=0D1117&sideNums=0D1117&currStreakLabel=0969DA&sideLabels=57606A&dates=57606A" alt="GitHub contribution streak card for git-user-007" />
 </p>
 
-<p>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=git-user-007&bg_color=0D1117&color=58A6FF&line=00D9FF&point=FFFFFF&area=true&area_color=58A6FF&hide_border=true&radius=8" alt="Contribution activity graph for git-user-007" />
-</p>
 
 </div>
 

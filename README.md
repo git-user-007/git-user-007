@@ -1,127 +1,144 @@
- <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,50:096BFF,100:FF4FD8&height=200&section=header&text=HARSHITA%20BOHET&fontSize=45&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=CODE%20%7C%20CREATE%20%7C%20REPEAT&descSize=16&descAlignY=55" width="100%"/>
+<div align="center">
 
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&width=650&lines=Software+Engineering+Student+%40+DTU;DSA+Enthusiast+%F0%9F%92%BB;Web+Developer+in+Progress;Exploring+AI%2FML;Building+My+Future+One+Commit+at+a+Time" alt="Typing SVG"/>
-</a>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=4&section=header" width="100%"/>
 
-<br/>
+# Hi, I'm Harshita Bohet 👋
 
-<a href="https://github.com/harshita-bohet">
-<img src="https://img.shields.io/badge/GitHub-050816?style=for-the-badge&logo=github&logoColor=00D9FF"/>
-</a>
-<img src="https://img.shields.io/badge/FOCUS-DSA-096BFF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/EXPLORING-AI%2FML-FF4FD8?style=for-the-badge"/>
-<img src="https://komarev.com/ghpvc/?username=harshita-bohet&style=for-the-badge&color=096BFF&label=PROFILE+VIEWS"/>
+### Software Engineering Student @ DTU
+
+**Building skills. Solving problems. Creating things that matter.**
+
+[![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=flat-square&logo=github&logoColor=58A6FF)](https://github.com/harshita-bohet)
+[![Profile Views](https://komarev.com/ghpvc/?username=harshita-bohet&style=flat-square&color=0969DA&label=PROFILE+VIEWS)](https://github.com/harshita-bohet)
 
 </div>
 
 ---
 
-## 💫 `whoami`
+## `01` — About Me
 
 ```cpp
-#include <iostream>
-using namespace std;
-
-int main() {
+class Developer {
+public:
     string name = "Harshita Bohet";
     string university = "Delhi Technological University";
     string major = "Software Engineering";
 
-    cout << "Learning. Building. Improving." << endl;
-    cout << "Turning ideas into real-world projects." << endl;
-    return 0;
-}
+    vector<string> interests = {
+        "Data Structures & Algorithms",
+        "Web Development",
+        "Artificial Intelligence & ML",
+        "Building real-world projects"
+    };
+
+    string mindset = "Learn -> Build -> Improve";
+};
 ```
 
-- 🎓 Software Engineering student at **DTU**
-- 💻 Practising Data Structures & Algorithms
-- 🌐 Exploring web development and the MERN stack
-- 🤖 Interested in AI/ML and practical problem-solving
-- 🚀 Building projects that solve real problems
-- 🎯 Goal: become placement-ready through consistent learning
+- 🎓 Software Engineering student at **Delhi Technological University (DTU)**
+- 💻 Strengthening my problem-solving and DSA fundamentals
+- 🌐 Exploring full-stack web development
+- 🤖 Curious about practical applications of AI/ML
+- 🚀 Working towards building useful, well-designed projects
+- 📈 Focused on consistent learning and career growth
 
-> 💙 *Small steps. Bigger dreams. One commit at a time.*
+> *Small steps. Consistent effort. Bigger possibilities.*
 
 ---
 
-## ⚡ `tech_stack.exe`
+## `02` — Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp,c,python,html,css,js,react,nodejs,git,github,vscode,mysql&theme=dark&perline=6" />
+### Languages
+
+<img src="https://skillicons.dev/icons?i=cpp,c,python,js&theme=dark" />
+
+### Web Development
+
+<img src="https://skillicons.dev/icons?i=html,css,react,nodejs&theme=dark" />
+
+### Tools & Databases
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,mysql,mongodb&theme=dark" />
 
 </div>
 
 ---
 
-## 🛠️ `featured_projects/`
+## `03` — Featured Projects
 
 <div align="center">
 
 <a href="https://github.com/harshita-bohet/Delhi-Traffic-dataset">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=harshita-bohet&repo=Delhi-Traffic-dataset&theme=tokyonight&hide_border=true&bg_color=050816&title_color=00D9FF&icon_color=FF4FD8"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=harshita-bohet&repo=Delhi-Traffic-dataset&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" alt="Delhi Traffic Dataset project"/>
 </a>
 <a href="https://github.com/harshita-bohet/EcoVision-AI-1">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=harshita-bohet&repo=EcoVision-AI-1&theme=tokyonight&hide_border=true&bg_color=050816&title_color=00D9FF&icon_color=FF4FD8"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=harshita-bohet&repo=EcoVision-AI-1&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" alt="EcoVision AI project"/>
 </a>
 
 </div>
 
-<div align="center">
-
-<a href="https://github.com/harshita-bohet?tab=repositories">
-<img src="https://img.shields.io/badge/EXPLORE-ALL%20PROJECTS-096BFF?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-## 📊 `github_stats/`
+**Areas I'm exploring**
+- 🚦 Traffic data analysis and congestion prediction
+- ♻️ AI-assisted waste identification and sustainability
+- 🌐 Web applications and practical software solutions
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=harshita-bohet&show_icons=true&theme=tokyonight&hide_border=true&bg_color=050816&title_color=00D9FF&icon_color=FF4FD8&text_color=FFFFFF&rank_icon=github"/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshita-bohet&layout=compact&theme=tokyonight&hide_border=true&bg_color=050816&title_color=00D9FF&text_color=FFFFFF"/>
-
-<br/>
-
-<img width="95%" src="https://streak-stats.demolab.com?user=harshita-bohet&theme=tokyonight&hide_border=true&background=050816&ring=FF4FD8&fire=00D9FF&currStreakLabel=00D9FF"/>
-
-<br/>
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=harshita-bohet&bg_color=050816&color=00D9FF&line=FF4FD8&point=FFFFFF&area=true&hide_border=true&custom_title=Harshita's%20Contribution%20Matrix"/>
+[![Explore Repositories](https://img.shields.io/badge/Explore%20All%20Projects-161B22?style=for-the-badge&logo=github&logoColor=58A6FF)](https://github.com/harshita-bohet?tab=repositories)
 
 </div>
 
 ---
 
-## 🌌 `current_mission`
-
-```text
-[ IN PROGRESS ]  Mastering DSA
-[ IN PROGRESS ]  Building full-stack projects
-[ IN PROGRESS ]  Exploring AI/ML
-[ NEXT LEVEL  ]  Contribute to open source
-[ FINAL BOSS  ]  Crack campus placements 🚀
-```
+## `04` — GitHub Analytics
 
 <div align="center">
 
-### 💌 Let's build something cool.
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=harshita-bohet&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&theme=github_dark" alt="GitHub statistics"/>
 
-<a href="https://github.com/harshita-bohet">
-<img src="https://img.shields.io/badge/Follow%20My%20Journey-050816?style=for-the-badge&logo=github&logoColor=00D9FF"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshita-bohet&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&theme=github_dark" alt="Most used languages"/>
+
+<br/>
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=harshita-bohet&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="Contribution activity graph"/>
+
+</div>
+
+---
+
+## `05` — Currently Listening 🎧
+
+<div align="center">
+
+<a href="https://open.spotify.com/">
+  <img src="https://img.shields.io/badge/Coding%20Soundtrack-Listen%20on%20Spotify-0D1117?style=for-the-badge&logo=spotify&logoColor=1DB954" alt="Listen on Spotify"/>
 </a>
 
-<br/><br/>
+*Good music. Deep focus. One problem at a time.*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF4FD8,50:096BFF,100:050816&height=100&section=footer"/>
+</div>
 
-<sub>Designed with 💙, a little pink, and lots of curiosity.</sub>
+---
 
-</div>++++++
+## `06` — Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/harshita-bohet/harshita-bohet/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation" width="100%"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### Let's connect and build something meaningful.
+
+[![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF)](https://github.com/harshita-bohet)
+
+<sub>Designed with curiosity, consistency, and a little midnight-blue energy.</sub>
+
+</div>

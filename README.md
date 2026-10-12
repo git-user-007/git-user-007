@@ -29,16 +29,6 @@ int main() {
 }
 ```
 
-- 🎓 Software Engineering student at Delhi Technological University
-- 💻 Practising Data Structures & Algorithms
-- 🌐 Exploring full-stack web development
-- 🤖 Interested in AI/ML and practical problem-solving
-- 🚀 Building projects that solve real-world problems
-- 📈 Focused on consistent learning and career growth
-
-> *Small steps. Consistent effort. Bigger possibilities.*
-
----
 
 ## `02` — Tech Stack
 

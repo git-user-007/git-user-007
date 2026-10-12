@@ -1,1 +1,163 @@
+<div align="center">
 
+<!-- ═══════════════ HERO ═══════════════ -->
+<a href="https://github.com/git-user-007">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=3200&pause=1200&color=58A6FF&center=true&vCenter=true&width=720&height=60&lines=Hi!+I%27m+Harshita+Bohet;Software+Engineering+%40+DTU;DSA+%C2%B7+Web+%C2%B7+AI%2FML" alt="Animated intro: Harshita Bohet, Software Engineering student at DTU" />
+</a>
+
+<p><b>Turning curiosity, DSA and code into things that actually run.</b></p>
+
+<p>
+  Software Engineering student at <b>Delhi Technological University (DTU)</b><br/>
+  Learning in public, building practical projects, preparing for placements.
+</p>
+
+<!-- Socials -->
+<p>
+  <a href="https://www.linkedin.com/in/harshita-bohet-linkdone"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="40" alt="LinkedIn" /></a>&nbsp;
+  <a href="https://x.com/hbohet08"><img src="https://skillicons.dev/icons?i=twitter&theme=dark" width="40" alt="X (Twitter)" /></a>&nbsp;
+  <a href="https://github.com/git-user-007"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="40" alt="GitHub" /></a>
+</p>
+
+<!-- Profile views (third-party counter: komarev.com) -->
+<img src="https://komarev.com/ghpvc/?username=git-user-007&label=Profile+views&color=58A6FF&labelColor=161B22&style=flat-square" alt="Profile views counter" />
+
+</div>
+
+<br/>
+
+<!-- ═══════════════ ABOUT ═══════════════ -->
+<h2 align="center">~/about</h2>
+
+<div align="center">
+
+I'm a B.Tech Software Engineering student at DTU who enjoys **Data Structures & Algorithms**, **web development** and **AI/ML**.
+I like turning what I learn into small, practical applications, and I'm sharpening my fundamentals for on-campus placements.
+
+**Right now:** practising DSA · building projects · learning how to ship software properly.
+
+</div>
+
+<br/>
+
+<!-- ═══════════════ STACK ═══════════════ -->
+<h2 align="center">~/languages-and-tools</h2>
+
+<div align="center">
+
+<sub>Languages and tools I've used or am actively learning.</sub>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,c,py,js,ts,html,css&theme=dark" alt="Languages: C++, C, Python, JavaScript, TypeScript, HTML, CSS" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,mysql,git,github,vscode&theme=dark" alt="Tools: React, Node.js, MongoDB, MySQL, Git, GitHub, VS Code" />
+</p>
+
+</div>
+
+<br/>
+
+<!-- ═══════════════ PROJECTS ═══════════════ -->
+<h2 align="center">~/featured-projects</h2>
+
+<table align="center">
+  <tr>
+    <td width="50%" valign="top" align="center">
+      <a href="https://github.com/git-user-007/EcoVision-AI-1">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=git-user-007&repo=EcoVision-AI-1&theme=dark&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=00D9FF&border_color=30363D" alt="EcoVision-AI-1 repository card" />
+      </a>
+      <br/>
+      <sub>Web app that scans a photo of an item, classifies whether it can be recycled or decomposed, and gives step-by-step disposal guidance. TypeScript.</sub>
+    </td>
+    <td width="50%" valign="top" align="center">
+      <a href="https://github.com/git-user-007/ml-backend-project">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=git-user-007&repo=ml-backend-project&theme=dark&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=00D9FF&border_color=30363D" alt="ml-backend-project repository card" />
+      </a>
+      <br/>
+      <sub>My first machine learning project deployed as a live website. Python. <a href="https://ml-backend-project-bqk0.onrender.com">Live site</a></sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top" align="center">
+      <a href="https://github.com/git-user-007/Delhi-Traffic-dataset">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=git-user-007&repo=Delhi-Traffic-dataset&theme=dark&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=00D9FF&border_color=30363D" alt="Delhi-Traffic-dataset repository card" />
+      </a>
+      <br/>
+      <sub>Dataset of known locations in Delhi with speed (km) and vehicle count at each location. Provided as an .xls file.</sub>
+    </td>
+    <td width="50%" valign="top" align="center">
+      <a href="https://github.com/git-user-007/delhi-traffic-pulse">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=git-user-007&repo=delhi-traffic-pulse&theme=dark&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=00D9FF&border_color=30363D" alt="delhi-traffic-pulse repository card" />
+      </a>
+      <br/>
+      <sub>Front-end dashboard concept for Delhi traffic congestion, built with Lovable. TypeScript + Vite.</sub>
+    </td>
+  </tr>
+</table>
+
+<p align="center"><sub>More on my <a href="https://github.com/git-user-007?tab=repositories">repositories page</a>.</sub></p>
+
+<br/>
+
+<!-- ═══════════════ GITHUB STATS ═══════════════ -->
+<h2 align="center">~/github-stats</h2>
+
+<div align="center">
+
+<p>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=git-user-007&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=00D9FF&text_color=C9D1D9&text_bold=false" alt="GitHub stats card for git-user-007" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=git-user-007&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Most used languages card for git-user-007" />
+</p>
+
+<p>
+  <img src="https://streak-stats.demolab.com/?user=git-user-007&background=FFFFFF&border=58A6FF&stroke=D0D7DE&ring=58A6FF&fire=00D9FF&currStreakNum=0D1117&sideNums=0D1117&currStreakLabel=0969DA&sideLabels=57606A&dates=57606A" alt="GitHub contribution streak card for git-user-007" />
+</p>
+
+<p>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=git-user-007&bg_color=0D1117&color=58A6FF&line=00D9FF&point=FFFFFF&area=true&area_color=58A6FF&hide_border=true&radius=8" alt="Contribution activity graph for git-user-007" />
+</p>
+
+</div>
+
+<!-- ═══════════════ SNAKE ═══════════════
+     Generated by .github/workflows/snake.yml and published to the `output` branch. -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/git-user-007/git-user-007/output/github-contribution-grid-snake.svg" />
+    <img alt="Animated snake eating my GitHub contribution graph" src="https://raw.githubusercontent.com/git-user-007/git-user-007/output/github-contribution-grid-snake-dark.svg" />
+  </picture>
+</div>
+
+<br/>
+
+<!-- ═══════════════ MUSIC ═══════════════ -->
+<h2 align="center">~/music</h2>
+
+<div align="center">
+
+I code better with a good playlist on.
+
+<!-- TODO: replace the URL below with your real Spotify profile or playlist link -->
+<a href="https://open.spotify.com/user/YOUR_SPOTIFY_USER_ID"><img src="https://skillicons.dev/icons?i=spotify&theme=dark" width="40" alt="Spotify" /></a>
+<br/>
+<sub>Static link to my Spotify. Not a live "now playing" widget.</sub>
+
+</div>
+
+<br/>
+
+<!-- ═══════════════ CONTACT ═══════════════ -->
+<h2 align="center">~/contact</h2>
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/harshita-bohet-linkdone">LinkedIn</a> ·
+<a href="https://x.com/hbohet08">X / Twitter</a> ·
+<a href="https://github.com/git-user-007">GitHub</a>
+<!-- TODO (optional): add your email, e.g. · <a href="mailto:YOUR_EMAIL_HERE">Email</a> -->
+
+<br/><br/>
+
+<sub>Thanks for stopping by. Open to feedback, ideas and collaboration.</sub>
+
+</div>

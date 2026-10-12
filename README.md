@@ -5,11 +5,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=3200&pause=1200&color=58A6FF&center=true&vCenter=true&width=720&height=60&lines=Heyyaaaa!" alt="Animated intro: Harshita Bohet, Heyaaa" />
 </a>
 
-<p>
-  Software Engineering student at <b>Delhi Technological University (DTU)</b><br/>
-  Learning in public, building practical projects, preparing for placements.
-</p>
-
 <!-- Socials -->
 <p>
   <a href="https://www.linkedin.com/in/harshita-bohet-linkdone"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="40" alt="LinkedIn" /></a>&nbsp;

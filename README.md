@@ -20,7 +20,7 @@
 </p>
 
 <!-- Profile views (third-party counter: komarev.com) -->
-<img src="https://komarev.com/ghpvc/?username=git-user-007&label=Profile+views&color=58A6FF&labelColor=161B22&style=flat-square" alt="Profile views counter" />
+
 
 </div>
 
@@ -128,28 +128,11 @@ I like turning what I learn into small, practical applications, and I'm sharpeni
   </picture>
 </div>
 
-<br/>
-
-<!-- ═══════════════ MUSIC ═══════════════ -->
-<h2 align="center">~/music</h2>
-
-<div align="center">
-
-I code better with a good playlist on.
 
 <!-- TODO: replace the URL below with your real Spotify profile or playlist link -->
-<a href="https://open.spotify.com/user/YOUR_SPOTIFY_USER_ID"><img src="https://skillicons.dev/icons?i=spotify&theme=dark" width="40" alt="Spotify" /></a>
-<br/>
-<sub>Static link to my Spotify. Not a live "now playing" widget.</sub>
-
 </div>
 
 <br/>
-
-<!-- ═══════════════ CONTACT ═══════════════ -->
-<h2 align="center">~/contact</h2>
-
-<div align="center">
 
 <a href="https://www.linkedin.com/in/harshita-bohet-linkdone">LinkedIn</a> ·
 <a href="https://x.com/hbohet08">X / Twitter</a> ·
@@ -157,7 +140,5 @@ I code better with a good playlist on.
 <!-- TODO (optional): add your email, e.g. · <a href="mailto:YOUR_EMAIL_HERE">Email</a> -->
 
 <br/><br/>
-
-<sub>Thanks for stopping by. Open to feedback, ideas and collaboration.</sub>
 
 </div>
